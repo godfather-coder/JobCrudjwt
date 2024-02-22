@@ -1,4 +1,4 @@
-package com.example.jwtauth.controllers;
+package com.example.jwtauth.controllers.auth;
 
 import com.example.jwtauth.model.User;
 import org.springframework.http.ResponseEntity;
